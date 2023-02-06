@@ -1,7 +1,7 @@
-# AWS-sagemaker
+# Learning Machine Learning
 
-This is a collection of all samples that I have tried on AWS Sagemaker
+This is a collection of examples and explorations I have used for learning machine learning
 
-1. EDx course: Dec 21
-2. AWS Health workshop: Aug 22
 
+1. amazon-textract-and-comprehend-medical-document-processing-main : how to use amazon textract and comprehend medical using Sagemaker
+2. Time series forecasting example
